@@ -1,3 +1,6 @@
+var wins = 0;
+var ties = 0;
+var losses = 0;
 
 
 //  Think i found a good structure for the game to compare user & computer choices 
